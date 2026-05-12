@@ -1,15 +1,19 @@
-![](https://raw.githubusercontent.com/IdreesInc/Pocket-Bird/main/images/preview.png)
+![](images/preview.png)
 
 It's a pet bird that hops around your computer, what more could you want?
 
-# **This repository only exists to distribute for Obsidian, the full source code is available here: [IdreesInc/Pocket-Bird](https://github.com/IdreesInc/Pocket-Bird)**
+# **This repository is for Obsidian distribution only, the full source code is available here: [IdreesInc/Pocket-Bird](https://github.com/IdreesInc/Pocket-Bird)**
 
 ## Features
 
 - A cute little pixel art bird hops around your apps and websites
-- Collect rare falling feathers to unlock over 10+ different species of birds
-- Add sticky notes that stay on the page even after you refresh
+- Runs right in Obsidian, so you can use it anywhere including at work or school
+- Catch rare falling feathers to unlock over 20+ different species of birds
+- Find over a dozen adorable hats for your bird to wear
+- Create sticky notes that stay on the page even after you refresh
+- It's all powered by open-source code written by hand
 - And most importantly, you can pet the bird!
+
 
 ## FAQ
 
@@ -36,6 +40,17 @@ Open the Pocket Bird menu by clicking the bird and select "Settings". From there
 ### Why does Pocket Bird need permission to read and change my data on websites I visit?
 
 If you are running Pocket bird on a browser, the extension needs these permissions in order to insert the bird and sticky notes into your webpages. Pocket Bird does not collect any of your data or browsing history and all data is stored locally on your device!
+
+## Sites With Pocket Bird
+
+Here are some websites where you can find Pocket Bird hopping around:
+
+- [https://grepjason.sh](https://grepjason.sh)
+- [https://binarydigit.net](https://binarydigit.net)
+- [https://melvinsalas.com](https://melvinsalas.com)
+
+*If you've added Pocket Bird to your website, let me know and I'll add it to this list!*
+
 
 ## Getting in Touch
 
