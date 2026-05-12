@@ -7,13 +7,49 @@ It's a pet bird that hops around your computer, what more could you want?
 ## Features
 
 - A cute little pixel art bird hops around your apps and websites
-- Runs right in Obsidian, so you can use it anywhere including at work or school
+- Runs in your browser, so you can use it anywhere including at work or school
 - Catch rare falling feathers to unlock over 20+ different species of birds
 - Find over a dozen adorable hats for your bird to wear
 - Create sticky notes that stay on the page even after you refresh
 - It's all powered by open-source code written by hand
 - And most importantly, you can pet the bird!
 
+## Adoption Guide
+
+### Google Chrome + Microsoft Edge
+
+1. Go to the [Chrome Web Store page](https://chromewebstore.google.com/detail/pocket-bird/lbbdngkbbgaecefacpnhnhleggabghak)
+2. Click "Add to Chrome" (or "Add to Edge" if using Microsoft Edge)
+3. Confirm any permission prompts that appear
+
+### Mozilla Firefox
+1. Go to the [Mozilla Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/pocket-bird/)
+2. Click "Add to Firefox"
+3. Confirm any permission prompts that appear
+
+### Obsidian
+
+1. Go to the [Obsidian Plugins page](https://community.obsidian.md/plugins/pocket-bird)
+2. Click "Add to Obsidian"
+3. Once your Obsidian app opens, click "Install" on the Pocket Bird plugin
+4. Click "Enable" and now you're ready to go!
+
+### Userscript
+
+*Note that this is mainly used for beta testing new features, installation via browser extension is recommended for the best experience.*
+
+1. Install [Tampermonkey](https://www.tampermonkey.net/) on your web browser
+2. Enable the Tampermonkey extension and give it the permissions requested
+3. Install my Pocket Bird script by going to this link and clicking install: [https://github.com/IdreesInc/Pocket-Bird/raw/refs/heads/main/dist/userscript/birb.user.js](https://github.com/IdreesInc/Pocket-Bird/raw/refs/heads/main/dist/userscript/birb.user.js)
+4. Now any websites you visit will have a little bird hopping around!
+
+### Your Own Website
+
+Pocket Bird can also be embedded directly into your own website! Just include the following code snippet anywhere in your HTML:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/IdreesInc/Pocket-Bird@main/dist/web/birb.embed.js"></script>
+```
 
 ## FAQ
 
