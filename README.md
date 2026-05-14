@@ -4,6 +4,8 @@ It's a pet bird that hops around your computer, what more could you want?
 
 # **This repository is for Obsidian distribution only, the full source code is available here: [IdreesInc/Pocket-Bird](https://github.com/IdreesInc/Pocket-Bird)**
 
+---
+
 ![](images/pocket-bird-on-code-block.gif)
 
 ## Features
