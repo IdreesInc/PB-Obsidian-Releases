@@ -2,6 +2,10 @@
 
 It's a pet bird that hops around your computer, what more could you want?
 
+<video autoplay muted loop playsinline width="100%">
+	<source src="images/pocket-bird-on-code-block.mp4" type="video/mp4">
+</video>
+
 # **This repository is for Obsidian distribution only, the full source code is available here: [IdreesInc/Pocket-Bird](https://github.com/IdreesInc/Pocket-Bird)**
 
 ## Features
